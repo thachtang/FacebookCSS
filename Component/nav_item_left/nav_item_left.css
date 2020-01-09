@@ -2,9 +2,17 @@
 	display: flex;
 }
 .nav_item_left_name{
-	padding-left: 0.35em;
+	padding-left: 0.4em;
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
 
 }
+
 .nav_item_left:hover {
    background-color: #FFF;
+   cursor: pointer;
+}
+		
+.icon_nav_left {
+	padding-top: 0.35em;
 }
