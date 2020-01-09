@@ -1,0 +1,48 @@
+.chat_friend{
+	display: flex;
+	/*border:1px solid;
+*/	height: 36px;
+	width: 205px;
+
+	
+
+
+}
+.chat_friend:hover{
+	background-color:#EEE;
+	cursor: pointer;
+
+}
+/*.chat_friend:hover  .chatfriend_overlay{
+	opacity: 1;
+
+}
+*/
+
+.chat_name{
+
+	margin-left: 0.5em;
+	padding-top: 0.5em;
+	display: inline;
+
+}
+.chat_avatar {
+    margin-top: 0.1em ;	
+    margin-left: 0.2em;
+    margin-bottom: 0.1em;
+}
+.chat_avatar_image {
+
+	border-radius:50%;
+	width: 2em;
+
+}
+
+.chat_status {
+    background-color: rgb(66, 183, 42);
+    border-radius: 50%;
+    height: 6px;
+    width: 6px;
+    margin-top: 0.8em;
+    margin-left: 3.8em;
+}
