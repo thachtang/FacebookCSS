@@ -1,0 +1,10 @@
+.nav_item_left{
+	display: flex;
+}
+.nav_item_left_name{
+	padding-left: 0.35em;
+
+}
+.nav_item_left:hover {
+   background-color: #FFF;
+}
