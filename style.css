@@ -1,0 +1,10 @@
+.wrapper {
+	display: grid;
+	grid-template-columns: 2fr 4.2fr 2.8fr 2fr ;
+}
+.header {
+	grid-column: 1/5;
+}
+.nav_left {
+	background-color: #EEE;
+}
